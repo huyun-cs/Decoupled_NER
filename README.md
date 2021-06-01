@@ -1,6 +1,6 @@
 # Decoupled_NER
 
-We will update the readme in the future.
+We will update the code, data and readme soon.
 
 ## Train:
 nohup python -u run_3_loss_share.py --model bert_3_loss_share >ner_train_dropout.log 2>&1 &
