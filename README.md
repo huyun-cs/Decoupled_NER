@@ -1,3 +1,5 @@
+If you has any question, please email to hunyun2016@iscas.ac.cn
+
 # Decoupled_NER
 
 We will update the code, data and readme soon.
@@ -26,4 +28,13 @@ from: http://paper.people.com.cn
 from: https://weibo.com/
 
 
-## put data in the ./deNER
+## Detail
+We will show the detail of the process.
+
+### Annotation data
+
+### Pretained data
+
+### Pretrain process
+
+put data in the ./deNER
