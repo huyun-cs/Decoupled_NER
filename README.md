@@ -2,7 +2,7 @@ If you has any question, please email to hunyun2016@iscas.ac.cn
 
 # Decoupled_NER
 
-We will update the code, data and readme soon.
+We will update the code, data and readme soon. The temporary code can be seen in https://github.com/huyun-cs/Decoupled_NER/blob/main/1240_file_SupMat__Software.zip 
 
 ## Train:
 nohup python -u run_3_loss_share.py --model bert_3_loss_share >ner_train_dropout.log 2>&1 &
