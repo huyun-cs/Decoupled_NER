@@ -1,4 +1,3 @@
-If you has any question, please email to hunyun2016@iscas.ac.cn
 
 # Decoupled_NER
 
